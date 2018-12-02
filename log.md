@@ -118,7 +118,7 @@
 
 ### Day 20: December 2, Sunday
 
-**Today's Progress**: Moved my algorithm solutions to github. Fork a repo (100-days-of-code) and update it to log my progress. Then passed 3 intermediate algorithm challenges from freeCodeCamp.
+**Today's Progress**: Moved my algorithm solutions to github. Fork a repo (100-days-of-code) and update it to log my progress. Then passed 3 intermediate algorithm challenges from freeCodeCamp. The 3rd challenge is like, why my code didn't work? my bad i forgot to use (const/let) while i'm destructuring an array..
 
 **Link(s) to work**:
 
