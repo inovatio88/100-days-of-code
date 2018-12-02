@@ -115,3 +115,14 @@
 
 - [Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
 - [My Solutions](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/tree/master/basic-algorithm-scripting)
+
+### Day 20: December 2, Sunday
+
+**Today's Progress**: Moved my algorithm solutions to github. Fork a repo (100-days-of-code) and update it to log my progress. Then passed 3 intermediate algorithm challenges from freeCodeCamp.
+
+**Link(s) to work**:
+
+- [FCC-Javascript-Algorithms-And-Data-Structures Repo](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures)
+- [Sum All Numbers in a Range](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-numbers-in-a-range) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/01.js)
+- [Diff Two Arrays](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/02.js)
+- [Seek and Destroy](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/seek-and-destroy) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/03.js)
