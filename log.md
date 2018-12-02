@@ -102,6 +102,16 @@
 
 **Today's Progress**: [Progress Tweet](https://twitter.com/rmasianjr/status/1068533041847398400)
 
+**Link to work**:
+
+- [Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
+- [My Solutions](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/tree/master/basic-algorithm-scripting)
+
 ### Day 19: December 1, Saturday
 
 **Today's Progress**: [Progress Tweet](https://twitter.com/rmasianjr/status/1068896842178420736)
+
+**Link to work**:
+
+- [Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
+- [My Solutions](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/tree/master/basic-algorithm-scripting)
