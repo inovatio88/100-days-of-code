@@ -131,7 +131,7 @@
 
 **Today's Progress**: Solved 6 intermediate algorithm challenges from freeCodeCamp.
 
-**Thoughts:** The best feeling is when you finally solve an algorithm challenge after a lot of trials and errors. Also i need to improve my regex knowledge. 
+**Thoughts:** The best feeling is when you finally solve an algorithm challenge after a lot of trials and errors. Also i need to improve my regex knowledge.
 
 **Link(s) to work**:
 
@@ -142,3 +142,19 @@
 - [Search and Replace](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/search-and-replace) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/07.js)
 - [DNA Pairing](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/dna-pairing) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/08.js)
 - [Missing letters](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/missing-letters) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/09.js)
+
+### Day 22: December 4, Tuesday
+
+**Today's Progress**: Solved 6 intermediate algorithm challenges from freeCodeCamp.
+
+**Thoughts:** Its getting more harder now to solve those challenges. And struggle a lot on the _Sum All Primes_. Tried all my best to solve it, but i ended peeking some function on how to check if a number is prime. No worries, because there is always room for improvement.
+
+**Link(s) to work**:
+
+- [Sorted Union](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sorted-union) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/10.js)
+
+- [Convert HTML Entities](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/convert-html-entities) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/11.js)
+- [Sum All Odd Fibonacci Numbers](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-odd-fibonacci-numbers) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/12.js)
+- [Sum All Primes](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-primes) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/13.js)
+- [Smallest Common Multiple](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/smallest-common-multiple) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/14.js)
+- [Drop it](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/drop-it) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/15.js)
