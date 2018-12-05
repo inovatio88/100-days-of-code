@@ -158,3 +158,19 @@
 - [Sum All Primes](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-primes) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/13.js)
 - [Smallest Common Multiple](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/smallest-common-multiple) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/14.js)
 - [Drop it](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/drop-it) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/15.js)
+
+### Day 23: December 5, Wednesday
+
+**Today's Progress**: Solved the rest of intermediate algorithm scripting challenges from freeCodeCamp.
+
+**Thoughts:** I think solving the remaining challenges, the struggle is not to much. Some of the problem is slightly the same from the past challenges with a bit tricky. So i just need to tweak my algo and im good to go. 
+
+**Link(s) to work**:
+
+- [Steamroller](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/steamroller) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/16.js)
+
+- [Binary Agents](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/binary-agents) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/17.js)
+- [Everything Be True](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/everything-be-true) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/18.js)
+- [Arguments Optional](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/arguments-optional) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/19.js)
+- [Make a Person](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/make-a-person) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/20.js)
+- [Map the Debris](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/map-the-debris) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/21.js)
