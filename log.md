@@ -163,7 +163,7 @@
 
 **Today's Progress**: Solved the rest of intermediate algorithm scripting challenges from freeCodeCamp.
 
-**Thoughts:** I think solving the remaining challenges, the struggle is not to much. Some of the problem is slightly the same from the past challenges with a bit tricky. So i just need to tweak my algo and im good to go. 
+**Thoughts:** I think solving the remaining challenges, the struggle is not to much. Some of the problem is slightly the same from the past challenges with a bit tricky. So i just need to tweak my algo and im good to go.
 
 **Link(s) to work**:
 
@@ -174,3 +174,18 @@
 - [Arguments Optional](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/arguments-optional) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/19.js)
 - [Make a Person](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/make-a-person) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/20.js)
 - [Map the Debris](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/map-the-debris) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/intermediate-algorithm-scripting/21.js)
+
+### Day 24: December 6, Thursday
+
+**Today's Progress**: Solved 4 javaScript algorithms and data structures projects from freeCodeCamp.
+
+**Thoughts:** The challenges here is a real deal. I feel the frustration and makes me want to quit. But i know i can make it, and finally i solved the 4 of them. Still working for the last one. 
+
+**Link(s) to work**:
+
+- [Palindrome Checker](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/javascript-algorithm-and-data-structures-projects/01.js)
+
+- [Roman Numeral Converter](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/javascript-algorithm-and-data-structures-projects/02.js)
+- [Caesars Cipher](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/javascript-algorithm-and-data-structures-projects/03.js)
+- [Telephone Number Validator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/javascript-algorithm-and-data-structures-projects/04.js)
+- [Cash Register](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
