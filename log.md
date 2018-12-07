@@ -179,7 +179,7 @@
 
 **Today's Progress**: Solved 4 javaScript algorithms and data structures projects from freeCodeCamp.
 
-**Thoughts:** The challenges here is a real deal. I feel the frustration and makes me want to quit. But i know i can make it, and finally i solved the 4 of them. Still working for the last one. 
+**Thoughts:** The challenges here is a real deal. I feel the frustration and makes me want to quit. But i know i can make it, and finally i solved the 4 of them. Still working for the last one.
 
 **Link(s) to work**:
 
@@ -189,3 +189,13 @@
 - [Caesars Cipher](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/javascript-algorithm-and-data-structures-projects/03.js)
 - [Telephone Number Validator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/javascript-algorithm-and-data-structures-projects/04.js)
 - [Cash Register](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+
+### Day 25: December 7, Friday
+
+**Today's Progress**: Solved the last challenge of javaScript algorithms and data structures projects. Claimed my javascript algorithms and data structures certificate from freeCodeCamp. Also finished the bootstrap section. 
+
+**Thoughts:** Get frustrated in the last algorithm challenge, i can't understand it. So i take a break for a meantime and go back with a fresh mind. Read the challenge again, and then finally understand it. Challenge solved :).. 
+
+**Link(s) to work**:
+
+- [Cash Register](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/javascript-algorithm-and-data-structures-projects/05.js)
