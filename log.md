@@ -199,3 +199,9 @@
 **Link(s) to work**:
 
 - [Cash Register](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register) - [Solution](https://github.com/rmasianjr/FCC-Javascript-Algorithms-And-Data-Structures/blob/master/javascript-algorithm-and-data-structures-projects/05.js)
+
+### Day 26: December 8, Saturday
+
+**Today's Progress**: Finished jQuery and Sass sections from freeCodeCamp. 
+
+**Thoughts:** Just familiarize myself in jQuery (i want to learn react). Learned the basic sass and witnessed how powerful it is. I will read more about it. 
