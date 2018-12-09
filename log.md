@@ -206,7 +206,7 @@
 
 **Thoughts:** Just familiarize myself in jQuery (i want to learn react). Learned the basic sass and witnessed how powerful it is. I will read more about it. 
 
-### Day 27: December 9, Saturday
+### Day 27: December 9, Sunday
 
 **Today's Progress**: Finished React section of freeCodeCamp. 
 
