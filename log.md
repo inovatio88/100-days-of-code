@@ -205,3 +205,9 @@
 **Today's Progress**: Finished jQuery and Sass sections from freeCodeCamp. 
 
 **Thoughts:** Just familiarize myself in jQuery (i want to learn react). Learned the basic sass and witnessed how powerful it is. I will read more about it. 
+
+### Day 27: December 9, Saturday
+
+**Today's Progress**: Finished React section of freeCodeCamp. 
+
+**Thoughts:** Lot of things need to absorb like state, props, lifecycle hooks etc. Thanks to my javascript knowledge, learning react is not too hard. I will read more about it, then start building some projects.
