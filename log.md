@@ -192,9 +192,9 @@
 
 ### Day 25: December 7, Friday
 
-**Today's Progress**: Solved the last challenge of javaScript algorithms and data structures projects. Claimed my javascript algorithms and data structures certificate from freeCodeCamp. Also finished the bootstrap section. 
+**Today's Progress**: Solved the last challenge of javaScript algorithms and data structures projects. Claimed my javascript algorithms and data structures certificate from freeCodeCamp. Also finished the bootstrap section.
 
-**Thoughts:** Get frustrated in the last algorithm challenge, i can't understand it. So i take a break for a meantime and go back with a fresh mind. Read the challenge again, and then finally understand it. Challenge solved :).. 
+**Thoughts:** Get frustrated in the last algorithm challenge, i can't understand it. So i take a break for a meantime and go back with a fresh mind. Read the challenge again, and then finally understand it. Challenge solved :)..
 
 **Link(s) to work**:
 
@@ -202,12 +202,20 @@
 
 ### Day 26: December 8, Saturday
 
-**Today's Progress**: Finished jQuery and Sass sections from freeCodeCamp. 
+**Today's Progress**: Finished jQuery and Sass sections from freeCodeCamp.
 
-**Thoughts:** Just familiarize myself in jQuery (i want to learn react). Learned the basic sass and witnessed how powerful it is. I will read more about it. 
+**Thoughts:** Just familiarize myself in jQuery (i want to learn react). Learned the basic sass and witnessed how powerful it is. I will read more about it.
 
 ### Day 27: December 9, Sunday
 
-**Today's Progress**: Finished React section of freeCodeCamp. 
+**Today's Progress**: Finished React section of freeCodeCamp.
 
 **Thoughts:** Lot of things need to absorb like state, props, lifecycle hooks etc. Thanks to my javascript knowledge, learning react is not too hard. I will read more about it, then start building some projects.
+
+### Day 28: December 10, Monday
+
+**Today's Progress**: Finished react tic-tac-toe project tutorial and read its documentation for better understanding. Then start building a mini react project (React Stat Calculator).
+
+**Thoughts:** The react documentation is well documented so i didn't see myself loss. after reading its main concepts and build a tic-tac-toe project tutorial. I immediately build a mini project to apply what i learned, and the name of the project is React Stat Calculator. The project idea pops out after my friend invited me to play a game. It is based on, whenever a character levels up a user/player can choose what stats to upgrade (if you play games you know what i mean). Since i prefer to code in my local machine, i'm using a create-react-app and i like its built-in features.
+
+**Link(s) to work**: [React Stat Calculator](https://github.com/rmasianjr/react-stat-calculator)
