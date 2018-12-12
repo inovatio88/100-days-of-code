@@ -219,3 +219,17 @@
 **Thoughts:** The react documentation is well documented so i didn't see myself loss. after reading its main concepts and build a tic-tac-toe project tutorial. I immediately build a mini project to apply what i learned, and the name of the project is React Stat Calculator. The project idea pops out after my friend invited me to play a game. It is based on, whenever a character levels up a user/player can choose what stats to upgrade (if you play games you know what i mean). Since i prefer to code in my local machine, i'm using a create-react-app and i like its built-in features.
 
 **Link(s) to work**: [React Stat Calculator](https://github.com/rmasianjr/react-stat-calculator)
+
+### Day 29: December 11, Tuesday
+
+**Today's Progress**: Just finished my mini react project : stat calculator. This project is built using the create react app. I still need to fix it's responsiveness before completely deploying it. This is just practice from what I've learned from freeCodeCamp and react official docs.
+
+**Link(s) to work**: [React Stat Calculator](https://github.com/rmasianjr/react-stat-calculator)
+
+### Day 30: December 12, Wednesday
+
+**Today's Progress**: Done with my react mini project. Fixed it's responsiveness and deploy it to github pages.
+
+**Thoughts:** I was amazed on how easily to deploy a react project to github pages. I thought it was hard at first, but following the create react app simple guidelines magic happens.
+
+**Link(s) to work**: [React Stat Calculator](https://rmasianjr.github.io/react-stat-calculator/)
